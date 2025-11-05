@@ -2,7 +2,7 @@
 
 Painel de Business Intelligence desenvolvido para análise de **custos e desempenho logístico** de transportadoras e embarcadores.
 
-![Dashboard Principal](images/Dashboard_principal.png)
+![Dashboard Principal](images/Dashboard_principal.jpg)
 
 ---
 
